@@ -31,11 +31,11 @@
           "channel"
         ]
       },  
-	   {
+		   {
         "title":"الاهداف و الملخصات",
         "provider":"youtube",
         "arguments":[
-          "UC7zHtTNiRxW-OR6etKH644A",
+          "UCCM5fsV2eD49qd97gPMA1RA",
           "channel"
         ]
       },  
@@ -93,14 +93,6 @@
       },  
 
 	
-	        {
-        "title":"جميع الدوريات",
-        "provider":"youtube",
-        "arguments":[
-          "UC7C-kigODYM1DhEO14yKXAA",
-          "channel"
-        ]
-      },  
 	
 	         {
         "title":"دوريات عربية",
@@ -111,14 +103,7 @@
         ]
       },  
 	
-	            {
-        "title":"ملخصات عربي",
-        "provider":"youtube",
-        "arguments":[
-          "UCfZ0cC-UlXMVWQ6rCvP3dLw",
-          "channel"
-        ]
-      },  
+	
 	    
 	  	  	   {
         "title":"الدوري الاسباني",
